@@ -1,0 +1,66 @@
+/* header */
+.header-bg{
+    background-color: #264653;
+}
+
+.header-nav-btn{
+    background-color: #E76F51;
+    padding: 10px 24px 10px 24px;
+
+}
+.header-btn{
+    background-color: #E76F51;
+    padding: 10px 40px 10px 40px;
+
+}
+
+header img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    display: block;
+}
+
+/* futures bike */
+.futures-bike{
+    color: #E76F51;
+}
+.grayscale img{
+    filter: grayscale(100%);
+}
+
+.future-bike{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    display: block;
+}
+
+.fa-star{
+    font-size: 18px;
+    color: #E76F51;
+}
+
+.fa-star.filled{
+    color: #E76F51;
+}
+
+.fa-star.empty{
+    color: #AEAEAE;
+}
+
+/* Frequently */
+.frequently img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    display: block;
+}
+
+/* SPECIFICATIONS */
+.specifications img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    display: block;
+}
